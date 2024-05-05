@@ -14,6 +14,7 @@ let saleContent = document.querySelector(".sale-content");
 let blogContent = document.querySelector(".blog-content");
 
 // select items to event
+let btnClose = document.querySelector(".close");
 let btnSearch = document.querySelector(".btn-search");
 let cartIcon = document.querySelector(".cart");
 let bestSell = document.querySelector(".best-sell");
@@ -43,15 +44,9 @@ btnSearch.addEventListener("click" , async ()=>{
         if (searchInput.value =="") {
             console.log(false);
         } else if(search.title.includes(searchInput.value)) {
-        // console.log(search.title);
-        // confirm("jdkj")
             
         }
-    });
-
-    
-    // console.log(true);
-    
+    });    
 })
 
 
@@ -75,15 +70,15 @@ bestSell.addEventListener("mouseenter", async () => {
             `;
   });
 });
-
 bestSell.addEventListener("mouseleave", () => {
   bestItems.innerHTML = " ";
 });
 
 // show cart
 cartIcon.addEventListener("click", () => {
-  cartList.classList.toggle("show-cart");
+  cartList.classList.add("show-cart");
 });
+
 // Man Collection
 async function getData() {
   const response = await fetch(api);
@@ -228,17 +223,6 @@ essenCollection.addEventListener("click", async () => {
   });
 });
 
-async function addCard(id) {
-  console.log(id);
-  // let productTitle = document.querySelectorAll(".product-title")
-  // const response = await fetch(api);
-  // const data = await response.json();
-  // // console.log(data);
-  // data.filter( x => x == id);
-
-  // console.log(productTitle.textContent);
-}
-
 // sales
 async function saleData() {
   const response = await fetch(api);
@@ -280,3 +264,42 @@ async function blogData() {
   });
 }
 blogData();
+
+
+async function addCard(id) {
+  // console.log(id);
+  const response =await fetch(api);
+  const data = await response.json();
+  data.forEach(element => {
+     if (element.id == id) {
+      let cardEmpty = document.querySelector(".empty");
+      cardEmpty.style.display = "none"
+      cartList.innerHTML += `
+                              <div class="d-flex align-items-center justify-content-between mb-4 items-cart">
+                              <img src="${element.image}" class="rounded" alt="">
+                              <p class="price m-0 p-0"> ${element.price} $ </p>
+                              <p class="title m-0 p-0">${element.title}  </p>
+                              <div class="d-flex align-items-center justify-content-between">
+                                <button class=" p-2 rounded text-white border border-white bg-black"> + </button>
+                                <p class="count p-2 rounded text-white border border-white mx-3 my-0 p-0"> 0 </p>
+                                <button class=" p-2 rounded text-white border border-white bg-black"> - </button>
+                              </div>
+                              <button class=" p-2 rounded text-white border border-white bg-black remove"> × </button>
+                            </div>
+      `
+    }
+  });
+}
+btnClose.addEventListener("click" , ()=>{
+  cartList.classList.remove("show-cart");
+  // console.log("test");
+})
+let removeItem = document.querySelectorAll(".remove"); 
+console.log(removeItem);
+removeItem.addEventListener("click" , ()=>{
+  let items = document.querySelector(".item-cart")
+  removeItem.forEach(element => {
+    items.remove();
+  });
+ 
+})

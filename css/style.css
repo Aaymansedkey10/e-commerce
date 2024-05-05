@@ -63,6 +63,7 @@
 }
 .show-cart {
   display: block !important;
+  width: 40% !important;
 }
 /* End nav-bar  */
 /* Start Categories  */
@@ -110,8 +111,21 @@
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
+.hero .see-cart {
+  background-color: var(--colorHover);
+  z-index: 90;
+}
 /* .produsts-list:hover */
+#cart-list {
+  z-index: 100;
+  overflow: auto;
+  height: 100vh;
+  right: 0%;
 
+}
+.items-cart img {
+  width: 10% !important;
+}
 .hero ul {
   list-style: none;
 }
