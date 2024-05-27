@@ -21,6 +21,21 @@ let womanCollection = document.querySelector(".woman");
 let kidsCollection = document.querySelector(".kids");
 let accCollection = document.querySelector(".accessories");
 let essenCollection = document.querySelector(".essential");
+
+// Search 
+// btnSearch.addEventListener("click" , async ()=>{
+//     let response = await fetch (api);
+//     let data = await response.json();
+//     data.forEach(search => {
+//         if (searchInput.value =="") {
+//             console.log("Please, Enter Your product ");
+//         } else if(search.title.includes(searchInput.value)) {
+//             console.log(search);
+//         }
+//     });    
+// })
+
+
 // drop down selling
 bestSell.addEventListener("mouseenter", async () => {
   const response = await fetch(api);
@@ -133,6 +148,36 @@ kidsCollection.addEventListener("click", async () => {
   });
   kidsCollection.classList.add("disabled");
 });
+
+// accessories Collection 
+accCollection.addEventListener("click", async () => {
+  const response = await fetch(api);
+  const data = await response.json();
+  let kids = data.filter((element) => element.category === "accessories");
+  kids.forEach((element) => {
+    contentTabFour.innerHTML += `<div class="col-6 col-lg-3">
+                <div class="card border-0 bg-transparent">
+                    <div class="img-content position-relative">
+                    <img src="${element.image}" class="card-img-top product-image" alt="Fissure in Sandstone"/>
+                    <div class="d-flex align-items-center justify-content-between w-100 bg-white position-absolute bottom-0 animate__animated animate__fadeInUp d-none container-cart">
+                            <button class="btn text-dark text-capitalize btn-card" onclick="addCard(${element.id})"> add to cart </button>
+                            <div class="cart-icon">
+                                <button class="btn"><i class="fa-solid fa-eye"></i> </button>
+                                <button class="btn" data-tooltip="hi" ><i class="fa-regular fa-heart"></i> </button>
+                                <button class="btn"><i class="fa-solid fa-chart-simple"></i> </button>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="card-body bg-transparent text-center">
+                        <h6 class="product-title">${element.title}</h6>
+                        <p class="product-price">${element.price} $</p>
+                    </div>
+                </div>
+            </div>`;
+  });
+  accCollection.classList.add("disabled");
+});
+
 // essential Collection
 essenCollection.addEventListener("click", async () => {
   const response = await fetch(api);
@@ -293,23 +338,21 @@ function remove() {
 function removeItem(id){
   remove();
   countProductRemove();
-} 
+}  
 function countProductRemove() {
   proCount -- ;
   NumberCount.innerHTML = proCount ;
 }
-
-// checkOut 
 function checkOut() {
   let itemsInCart = document.querySelectorAll(".items-cart");
   let totalPrice = document.querySelector(".total-price");
   let total = 0 ;
-  itemsInCart.forEach(items => {
-   let proPrice = items.querySelector(".price");
-  let proQuantity = items.querySelector(".Quantity");
-   let priceNumber = Number(proPrice.textContent);
-   let quantityNumber = Number(proQuantity.textContent);
-   total+= priceNumber * quantityNumber ;
-   totalPrice.innerHTML = total ;
-  }) 
+    itemsInCart.forEach(items => {
+    let proPrice = items.querySelector(".price");
+    let proQuantity = items.querySelector(".Quantity");
+    let priceNumber = Number(proPrice.textContent);
+    let quantityNumber = Number(proQuantity.textContent);
+    total+= priceNumber * quantityNumber ;
+    totalPrice.innerHTML = total ;
+    });
 }
