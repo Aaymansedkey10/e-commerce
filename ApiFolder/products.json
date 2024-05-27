@@ -90,7 +90,7 @@
     {
         "id": 9,
         "title": "summer frock",
-        "price": 29.0,
+        "price": 20.0,
         "category": "women's clothing",
         "image": "../images/woman-p1.jpg",
         "rating": {
@@ -101,7 +101,7 @@
     {
         "id": 10,
         "title": "coat",
-        "price": 29.0,
+        "price": 21.0,
         "category": "women's clothing",
         "image": "../images/woman-p2.jpg",
         "rating": {
@@ -112,7 +112,7 @@
     {
         "id": 11,
         "title": "jeans",
-        "price": 29.0,
+        "price": 10.0,
         "category": "women's clothing",
         "image": "../images/woman-p3.jpg",
         "rating": {
@@ -123,7 +123,7 @@
     {
         "id": 12,
         "title": "t-shirt",
-        "price": 29.0,
+        "price": 19.0,
         "category": "women's clothing",
         "image": "../images/woman-p4.jpg",
         "rating": {
@@ -134,7 +134,7 @@
     {
         "id": 13,
         "title": "summer dress",
-        "price": 29.0,
+        "price": 99.0,
         "category": "women's clothing",
         "image": "../images/woman-p5.jpg",
         "rating": {
@@ -145,7 +145,7 @@
     {
         "id": 14,
         "title": "summer wears",
-        "price": 29.0,
+        "price": 59.0,
         "category": "women's clothing",
         "image": "../images/woman-p6.jpg",
         "rating": {
@@ -156,7 +156,7 @@
     {
         "id": 15,
         "title": "bages",
-        "price": 29.0,
+        "price": 90.0,
         "category": "women's clothing",
         "image": "../images/woman-p7.jpg",
         "rating": {
@@ -167,7 +167,7 @@
     {
         "id": 16,
         "title": "hoodies",
-        "price": 29.0,
+        "price": 77.0,
         "category": "women's clothing",
         "image": "../images/woman-p8.jpg",
         "rating": {
@@ -178,7 +178,7 @@
     {
         "id": 17,
         "title": "kids Socks",
-        "price": 29.0,
+        "price": 66.0,
         "category": "kid's clothing",
         "image": "../images/kids-p1.jpg",
         "rating": {
@@ -189,7 +189,7 @@
     {
         "id": 18,
         "title": "girl clothe",
-        "price": 29.0,
+        "price": 45.0,
         "category": "kid's clothing",
         "image": "../images/kids-p2.jpg",
         "rating": {
@@ -200,7 +200,7 @@
     {
         "id": 19,
         "title": "kids shirt",
-        "price": 29.0,
+        "price": 52.0,
         "category": "kid's clothing",
         "image": "../images/kids-p3.jpg",
         "rating": {
@@ -211,7 +211,7 @@
     {
         "id": 20,
         "title": "winter wears",
-        "price": 29.0,
+        "price": 25.0,
         "category": "kid's clothing",
         "image": "../images/kids-p4.jpg",
         "rating": {
@@ -222,7 +222,7 @@
     {
         "id": 21,
         "title": "kids shose ",
-        "price": 29.0,
+        "price": 52.0,
         "category": "kid's clothing",
         "image": "../images/kids-p5.jpg",
         "rating": {
@@ -233,7 +233,7 @@
     {
         "id": 22,
         "title": "white wear",
-        "price": 29.0,
+        "price": 85.0,
         "category": "kid's clothing",
         "image": "../images/kids-p6.jpg",
         "rating": {
@@ -244,7 +244,7 @@
     {
         "id": 23,
         "title": "kids dress",
-        "price": 29.0,
+        "price": 92.0,
         "category": "kid's clothing",
         "image": "../images/kids-p7.jpg",
         "rating": {
@@ -255,7 +255,7 @@
     {
         "id": 24,
         "title": "kids",
-        "price": 29.0,
+        "price": 91.0,
         "category": "kid's clothing",
         "image": "../images/kids-p8.jpg",
         "rating": {
@@ -266,7 +266,7 @@
     {
         "id": 25,
         "title": "watch",
-        "price": 29.0,
+        "price": 44.0,
         "category": "accessories",
         "image": "../images/accesserioes-p1.jpg",
         "rating": {
@@ -277,7 +277,7 @@
     {
         "id": 26,
         "title": "bages",
-        "price": 29.0,
+        "price": 36.0,
         "category": "accessories",
         "image": "../images/accesserioes-p2.jpg",
         "rating": {
@@ -288,7 +288,7 @@
     {
         "id": 27,
         "title": "bages & watch",
-        "price": 29.0,
+        "price": 26.0,
         "category": "accessories",
         "image": "../images/accesserioes-p3.jpg",
         "rating": {
@@ -299,7 +299,7 @@
     {
         "id": 28,
         "title": "encinal",
-        "price": 29.0,
+        "price": 35.0,
         "category": "accessories",
         "image": "../images/accesserioes-p4.jpg",
         "rating": {
@@ -310,7 +310,7 @@
     {
         "id": 29,
         "title": "series",
-        "price": 29.0,
+        "price": 53.0,
         "category": "accessories",
         "image": "../images/accesserioes-p5.jpg",
         "rating": {
@@ -321,7 +321,7 @@
     {
         "id": 30,
         "title": "hand made series",
-        "price": 29.0,
+        "price": 12.0,
         "category": "accessories",
         "image": "../images/accesserioes-p6.jpg",
         "rating": {
@@ -332,7 +332,7 @@
     {
         "id": 31,
         "title": "eyeglasses",
-        "price": 29.0,
+        "price": 78.0,
         "category": "accessories",
         "image": "../images/accesserioes-p7.jpg",
         "rating": {
@@ -343,7 +343,7 @@
     {
         "id": 32,
         "title": "hat Women",
-        "price": 29.0,
+        "price": 15.0,
         "category": "accessories",
         "image": "../images/accesserioes-p8.jpg",
         "rating": {
@@ -354,7 +354,7 @@
     {
         "id": 33,
         "title": "Women Mask ",
-        "price": 29.0,
+        "price": 76.0,
         "category": "essential",
         "image": "../images/essential-p1.jpg",
         "rating": {
@@ -365,7 +365,7 @@
     {
         "id": 34,
         "title": "Black Sunglass For Women",
-        "price": 29.0,
+        "price": 27.0,
         "category": "essential",
         "image": "../images/essential-p2.jpg",
         "rating": {
@@ -376,7 +376,7 @@
     {
         "id": 35,
         "title": "Black Sunglass For Women",
-        "price": 29.0,
+        "price": 90.0,
         "category": "essential",
         "image": "../images/essential-p3.jpg",
         "rating": {
@@ -386,8 +386,8 @@
     },
     {
         "id": 36,
-        "title": "Black Sunglass For Women",
-        "price": 29.0,
+        "title": "Cream  For Women",
+        "price": 50.0,
         "category": "essential",
         "image": "../images/essential-p4.jpg",
         "rating": {
@@ -397,8 +397,8 @@
     },
     {
         "id": 37,
-        "title": "Black Sunglass For Women",
-        "price": 29.0,
+        "title": "Black",
+        "price": 40.0,
         "category": "essential",
         "image": "../images/essential-p5.jpg",
         "rating": {
@@ -409,7 +409,7 @@
     {
         "id": 38,
         "title": "Black Sunglass For Women",
-        "price": 29.0,
+        "price": 33.0,
         "category": "essential",
         "image": "../images/essential-p6.jpg",
         "rating": {
@@ -420,7 +420,7 @@
     {
         "id": 39,
         "title": "Black Sunglass For Women",
-        "price": 29.0,
+        "price": 21.0,
         "category": "essential",
         "image": "../images/essential-p7.jpg",
         "rating": {
@@ -431,7 +431,7 @@
     {
         "id": 40,
         "title": "Black Sunglass For Women",
-        "price": 29.0,
+        "price": 24.0,
         "category": "essential",
         "image": "../images/essential-p8.jpg",
         "rating": {
@@ -442,7 +442,7 @@
     {
         "id": 41,
         "title": "Licity jelly leg flat Sandals",
-        "price": 29.0,
+        "price": 68.0,
         "category": "shop",
         "image": "../images/shop-list1.jpg",
         "rating": {
@@ -453,7 +453,7 @@
     {
         "id": 42,
         "title": "Licity jelly leg flat Sandals",
-        "price": 29.0,
+        "price": 90.0,
         "category": "shop",
         "image": "../images/shop-list2.jpg",
         "rating": {
@@ -464,7 +464,7 @@
     {
         "id": 43,
         "title": "Licity jelly leg flat Sandals",
-        "price": 29.0,
+        "price": 53.0,
         "category": "shop",
         "image": "../images/shop-list3.jpg",
         "rating": {
@@ -475,7 +475,7 @@
     {
         "id": 44,
         "title": "Licity jelly leg flat Sandals",
-        "price": 29.0,
+        "price": 89.0,
         "category": "shop",
         "image": "../images/shop-list4.jpg",
         "rating": {
@@ -486,7 +486,7 @@
     {
         "id": 45,
         "title": "Licity jelly leg flat Sandals",
-        "price": 29.0,
+        "price": 39.0,
         "category": "shop",
         "image": "../images/shop-list5.jpg",
         "rating": {
@@ -497,7 +497,7 @@
     {
         "id": 46,
         "title": "Licity jelly leg flat Sandals",
-        "price": 29.0,
+        "price": 44.0,
         "category": "shop",
         "image": "../images/shop-list6.jpg",
         "rating": {
@@ -519,7 +519,7 @@
     {
         "id": 48,
         "title": "Licity jelly leg flat Sandals",
-        "price": 29.0,
+        "price": 33.0,
         "category": "shop",
         "image": "../images/shop-list8.jpg",
         "rating": {
@@ -530,7 +530,7 @@
     {
         "id": 49,
         "title": "Licity jelly leg flat Sandals",
-        "price": 29.0,
+        "price": 28.0,
         "category": "shop",
         "image": "../images/shop-list9.jpg",
         "rating": {
@@ -544,11 +544,7 @@
         "date": "2 July , 2020. Monday",
         "continue": "Continue Reading",
         "category": "blog",
-        "image": "../images/blog1.jpg",
-        "rating": {
-            "rate": 1.9,
-            "count": 100
-        }
+        "image": "../images/blog1.jpg"
     },
     {
         "id": 51,
@@ -556,11 +552,7 @@
         "date": "2 July , 2020. Monday",
         "continue": "Continue Reading",
         "category": "blog",
-        "image": "../images/blog2.jpg",
-        "rating": {
-            "rate": 1.9,
-            "count": 100
-        }
+        "image": "../images/blog2.jpg"
     },
     {
         "id": 52,
@@ -568,11 +560,7 @@
         "date": "2 July , 2020. Monday",
         "continue": "Continue Reading",
         "category": "blog",
-        "image": "../images/blog3.jpg",
-        "rating": {
-            "rate": 1.9,
-            "count": 100
-        }
+        "image": "../images/blog3.jpg"
     },
     {
         "id": 53,
@@ -581,11 +569,7 @@
         "linkone": "kids Toys",
         "linktwo": "kids Travel Cars",
         "linkthree": "kids Color Shape",
-        "linkfour": "kids Tent",
-        "rating": {
-            "rate": 1.9,
-            "count": 100
-        }
+        "linkfour": "kids Tent"
     },
     {
         "id": 54,
@@ -594,11 +578,7 @@
         "linkone": "Watch",
         "linktwo": "T-Shirt",
         "linkthree": "Hoodies",
-        "linkfour": "Formal Pant",
-        "rating": {
-            "rate": 1.9,
-            "count": 100
-        }
+        "linkfour": "Formal Pant"
     },
     {
         "id": 54,
@@ -607,10 +587,6 @@
         "linkone": "Ladies Shirt",
         "linktwo": "Ladies Frog",
         "linkthree": "Ladies Sun Glass",
-        "linkfour": "Ladies Watch",
-        "rating": {
-            "rate": 1.9,
-            "count": 100
-        }
+        "linkfour": "Ladies Watch"
     }
 ]
