@@ -1,4 +1,4 @@
-const api = "./ApiFolder/products.json";
+const api = "ApiFolder/products.json";
 // select content
 
 let navBar = document.querySelector(".Categories");
@@ -21,20 +21,6 @@ let womanCollection = document.querySelector(".woman");
 let kidsCollection = document.querySelector(".kids");
 let accCollection = document.querySelector(".accessories");
 let essenCollection = document.querySelector(".essential");
-
-// Search 
-// btnSearch.addEventListener("click" , async ()=>{
-//     let response = await fetch (api);
-//     let data = await response.json();
-//     data.forEach(search => {
-//         if (searchInput.value =="") {
-//             console.log("Please, Enter Your product ");
-//         } else if(search.title.includes(searchInput.value)) {
-//             console.log(search);
-//         }
-//     });    
-// })
-
 
 // drop down selling
 bestSell.addEventListener("mouseenter", async () => {
