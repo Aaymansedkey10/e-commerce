@@ -329,16 +329,22 @@ function countProductRemove() {
   proCount -- ;
   NumberCount.innerHTML = proCount ;
 }
+// check out 
 function checkOut() {
   let itemsInCart = document.querySelectorAll(".items-cart");
   let totalPrice = document.querySelector(".total-price");
   let total = 0 ;
+  if (itemsInCart.length == 0 ){
+    totalPrice.innerHTML = 0 ;
+  } else {
     itemsInCart.forEach(items => {
-    let proPrice = items.querySelector(".price");
-    let proQuantity = items.querySelector(".Quantity");
-    let priceNumber = Number(proPrice.textContent);
-    let quantityNumber = Number(proQuantity.textContent);
-    total+= priceNumber * quantityNumber ;
-    totalPrice.innerHTML = total ;
-    });
+      let proPrice = items.querySelector(".price");
+      let proQuantity = items.querySelector(".Quantity");
+      let priceNumber = Number(proPrice.textContent);
+      let quantityNumber = Number(proQuantity.textContent);
+        total+= priceNumber * quantityNumber ;
+        totalPrice.innerHTML = total ;
+      });
+  }
+   
 }
