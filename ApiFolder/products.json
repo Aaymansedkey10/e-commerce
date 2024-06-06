@@ -4,7 +4,7 @@
         "title": "Jacket Jeans",
         "price": 330,
         "category": "men's clothing",
-        "image": "images/man-p1.jpg",
+        "image": "Images/man-p1.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -15,7 +15,7 @@
         "title": "Scarf",
         "price": 290,
         "category": "men's clothing",
-        "image": "images/man-p2.jpg",
+        "image": "Images/man-p2.jpg",
         "rating": {
             "rate": 4.1,
             "count": 259
@@ -26,7 +26,7 @@
         "title": "Jacket",
         "price": 220,
         "category": "men's clothing",
-        "image": "images/man-p3.jpg",
+        "image": "Images/man-p3.jpg",
         "rating": {
             "rate": 4.7,
             "count": 500
@@ -37,7 +37,7 @@
         "title": "hoodies",
         "price": 700,
         "category": "men's clothing",
-        "image": "images/man-p4.jpg",
+        "image": "Images/man-p4.jpg",
         "rating": {
             "rate": 2.1,
             "count": 430
@@ -48,7 +48,7 @@
         "title": "shirt",
         "price": 90,
         "category": "men's clothing",
-        "image": "images/man-p5.jpg",
+        "image": "Images/man-p5.jpg",
         "rating": {
             "rate": 4.6,
             "count": 400
@@ -59,7 +59,7 @@
         "title": "coat",
         "price": 2900,
         "category": "men's clothing",
-        "image": "images/man-p6.jpg",
+        "image": "Images/man-p6.jpg",
         "rating": {
             "rate": 3.9,
             "count": 70
@@ -70,7 +70,7 @@
         "title": "white shirt",
         "price": 100,
         "category": "men's clothing",
-        "image": "images/man-p7.jpg",
+        "image": "Images/man-p7.jpg",
         "rating": {
             "rate": 3,
             "count": 400
@@ -81,7 +81,7 @@
         "title": "Black jacket",
         "price": 200,
         "category": "men's clothing",
-        "image": "images/man-p8.jpg",
+        "image": "Images/man-p8.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -92,7 +92,7 @@
         "title": "summer frock",
         "price": 20.0,
         "category": "women's clothing",
-        "image": "images/woman-p1.jpg",
+        "image": "Images/woman-p1.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -103,7 +103,7 @@
         "title": "coat",
         "price": 21.0,
         "category": "women's clothing",
-        "image": "images/woman-p2.jpg",
+        "image": "Images/woman-p2.jpg",
         "rating": {
             "rate": 4.1,
             "count": 259
@@ -114,7 +114,7 @@
         "title": "jeans",
         "price": 10.0,
         "category": "women's clothing",
-        "image": "images/woman-p3.jpg",
+        "image": "Images/woman-p3.jpg",
         "rating": {
             "rate": 4.7,
             "count": 500
@@ -125,7 +125,7 @@
         "title": "t-shirt",
         "price": 19.0,
         "category": "women's clothing",
-        "image": "images/woman-p4.jpg",
+        "image": "Images/woman-p4.jpg",
         "rating": {
             "rate": 2.1,
             "count": 430
@@ -136,7 +136,7 @@
         "title": "summer dress",
         "price": 99.0,
         "category": "women's clothing",
-        "image": "images/woman-p5.jpg",
+        "image": "Images/woman-p5.jpg",
         "rating": {
             "rate": 4.6,
             "count": 400
@@ -147,7 +147,7 @@
         "title": "summer wears",
         "price": 59.0,
         "category": "women's clothing",
-        "image": "images/woman-p6.jpg",
+        "image": "Images/woman-p6.jpg",
         "rating": {
             "rate": 3.9,
             "count": 70
@@ -158,7 +158,7 @@
         "title": "bages",
         "price": 90.0,
         "category": "women's clothing",
-        "image": "images/woman-p7.jpg",
+        "image": "Images/woman-p7.jpg",
         "rating": {
             "rate": 3,
             "count": 400
@@ -169,7 +169,7 @@
         "title": "hoodies",
         "price": 77.0,
         "category": "women's clothing",
-        "image": "images/woman-p8.jpg",
+        "image": "Images/woman-p8.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -180,7 +180,7 @@
         "title": "kids Socks",
         "price": 66.0,
         "category": "kid's clothing",
-        "image": "images/kids-p1.jpg",
+        "image": "Images/kids-p1.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -191,7 +191,7 @@
         "title": "girl clothe",
         "price": 45.0,
         "category": "kid's clothing",
-        "image": "images/kids-p2.jpg",
+        "image": "Images/kids-p2.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -202,7 +202,7 @@
         "title": "kids shirt",
         "price": 52.0,
         "category": "kid's clothing",
-        "image": "images/kids-p3.jpg",
+        "image": "Images/kids-p3.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -213,7 +213,7 @@
         "title": "winter wears",
         "price": 25.0,
         "category": "kid's clothing",
-        "image": "images/kids-p4.jpg",
+        "image": "Images/kids-p4.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -224,7 +224,7 @@
         "title": "kids shose ",
         "price": 52.0,
         "category": "kid's clothing",
-        "image": "images/kids-p5.jpg",
+        "image": "Images/kids-p5.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -235,7 +235,7 @@
         "title": "white wear",
         "price": 85.0,
         "category": "kid's clothing",
-        "image": "images/kids-p6.jpg",
+        "image": "Images/kids-p6.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -246,7 +246,7 @@
         "title": "kids dress",
         "price": 92.0,
         "category": "kid's clothing",
-        "image": "images/kids-p7.jpg",
+        "image": "Images/kids-p7.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -257,7 +257,7 @@
         "title": "kids",
         "price": 91.0,
         "category": "kid's clothing",
-        "image": "images/kids-p8.jpg",
+        "image": "Images/kids-p8.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -268,7 +268,7 @@
         "title": "watch",
         "price": 44.0,
         "category": "accessories",
-        "image": "images/accesserioes-p1.jpg",
+        "image": "Images/accesserioes-p1.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -279,7 +279,7 @@
         "title": "bages",
         "price": 36.0,
         "category": "accessories",
-        "image": "images/accesserioes-p2.jpg",
+        "image": "Images/accesserioes-p2.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -290,7 +290,7 @@
         "title": "bages & watch",
         "price": 26.0,
         "category": "accessories",
-        "image": "images/accesserioes-p3.jpg",
+        "image": "Images/accesserioes-p3.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -301,7 +301,7 @@
         "title": "encinal",
         "price": 35.0,
         "category": "accessories",
-        "image": "images/accesserioes-p4.jpg",
+        "image": "Images/accesserioes-p4.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -312,7 +312,7 @@
         "title": "series",
         "price": 53.0,
         "category": "accessories",
-        "image": "images/accesserioes-p5.jpg",
+        "image": "Images/accesserioes-p5.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -323,7 +323,7 @@
         "title": "hand made series",
         "price": 12.0,
         "category": "accessories",
-        "image": "images/accesserioes-p6.jpg",
+        "image": "Images/accesserioes-p6.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -334,7 +334,7 @@
         "title": "eyeglasses",
         "price": 78.0,
         "category": "accessories",
-        "image": "images/accesserioes-p7.jpg",
+        "image": "Images/accesserioes-p7.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -345,7 +345,7 @@
         "title": "hat Women",
         "price": 15.0,
         "category": "accessories",
-        "image": "images/accesserioes-p8.jpg",
+        "image": "Images/accesserioes-p8.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -356,7 +356,7 @@
         "title": "Women Mask ",
         "price": 76.0,
         "category": "essential",
-        "image": "images/essential-p1.jpg",
+        "image": "Images/essential-p1.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -367,7 +367,7 @@
         "title": "Black Sunglass For Women",
         "price": 27.0,
         "category": "essential",
-        "image": "images/essential-p2.jpg",
+        "image": "Images/essential-p2.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -378,7 +378,7 @@
         "title": "Black Sunglass For Women",
         "price": 90.0,
         "category": "essential",
-        "image": "images/essential-p3.jpg",
+        "image": "Images/essential-p3.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -389,7 +389,7 @@
         "title": "Cream  For Women",
         "price": 50.0,
         "category": "essential",
-        "image": "images/essential-p4.jpg",
+        "image": "Images/essential-p4.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -400,7 +400,7 @@
         "title": "Black",
         "price": 40.0,
         "category": "essential",
-        "image": "images/essential-p5.jpg",
+        "image": "Images/essential-p5.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -411,7 +411,7 @@
         "title": "Black Sunglass For Women",
         "price": 33.0,
         "category": "essential",
-        "image": "images/essential-p6.jpg",
+        "image": "Images/essential-p6.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -422,7 +422,7 @@
         "title": "Black Sunglass For Women",
         "price": 21.0,
         "category": "essential",
-        "image": "images/essential-p7.jpg",
+        "image": "Images/essential-p7.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -433,7 +433,7 @@
         "title": "Black Sunglass For Women",
         "price": 24.0,
         "category": "essential",
-        "image": "images/essential-p8.jpg",
+        "image": "Images/essential-p8.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -444,7 +444,7 @@
         "title": "Licity jelly leg flat Sandals",
         "price": 68.0,
         "category": "shop",
-        "image": "images/shop-list1.jpg",
+        "image": "Images/shop-list1.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -455,7 +455,7 @@
         "title": "Licity jelly leg flat Sandals",
         "price": 90.0,
         "category": "shop",
-        "image": "images/shop-list2.jpg",
+        "image": "Images/shop-list2.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -466,7 +466,7 @@
         "title": "Licity jelly leg flat Sandals",
         "price": 53.0,
         "category": "shop",
-        "image": "images/shop-list3.jpg",
+        "image": "Images/shop-list3.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -477,7 +477,7 @@
         "title": "Licity jelly leg flat Sandals",
         "price": 89.0,
         "category": "shop",
-        "image": "images/shop-list4.jpg",
+        "image": "Images/shop-list4.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -488,7 +488,7 @@
         "title": "Licity jelly leg flat Sandals",
         "price": 39.0,
         "category": "shop",
-        "image": "images/shop-list5.jpg",
+        "image": "Images/shop-list5.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -499,7 +499,7 @@
         "title": "Licity jelly leg flat Sandals",
         "price": 44.0,
         "category": "shop",
-        "image": "images/shop-list6.jpg",
+        "image": "Images/shop-list6.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -510,7 +510,7 @@
         "title": "Licity jelly leg flat Sandals",
         "price": 29.0,
         "category": "shop",
-        "image": "images/shop-list7.jpg",
+        "image": "Images/shop-list7.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -521,7 +521,7 @@
         "title": "Licity jelly leg flat Sandals",
         "price": 33.0,
         "category": "shop",
-        "image": "images/shop-list8.jpg",
+        "image": "Images/shop-list8.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -532,7 +532,7 @@
         "title": "Licity jelly leg flat Sandals",
         "price": 28.0,
         "category": "shop",
-        "image": "images/shop-list9.jpg",
+        "image": "Images/shop-list9.jpg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -544,7 +544,7 @@
         "date": "2 July , 2020. Monday",
         "continue": "Continue Reading",
         "category": "blog",
-        "image": "images/blog1.jpg"
+        "image": "Images/blog1.jpg"
     },
     {
         "id": 51,
@@ -552,7 +552,7 @@
         "date": "2 July , 2020. Monday",
         "continue": "Continue Reading",
         "category": "blog",
-        "image": "images/blog2.jpg"
+        "image": "Images/blog2.jpg"
     },
     {
         "id": 52,
@@ -560,12 +560,12 @@
         "date": "2 July , 2020. Monday",
         "continue": "Continue Reading",
         "category": "blog",
-        "image": "images/blog3.jpg"
+        "image": "Images/blog3.jpg"
     },
     {
         "id": 53,
         "category": "menu",
-        "image": "images/end-menu1.jpg",
+        "image": "Images/end-menu1.jpg",
         "linkone": "kids Toys",
         "linktwo": "kids Travel Cars",
         "linkthree": "kids Color Shape",
@@ -574,7 +574,7 @@
     {
         "id": 54,
         "category": "menu",
-        "image": "images/end-menu2.jpg",
+        "image": "Images/end-menu2.jpg",
         "linkone": "Watch",
         "linktwo": "T-Shirt",
         "linkthree": "Hoodies",
@@ -583,7 +583,7 @@
     {
         "id": 54,
         "category": "menu",
-        "image": "images/end-menu3.jpg",
+        "image": "Images/end-menu3.jpg",
         "linkone": "Ladies Shirt",
         "linktwo": "Ladies Frog",
         "linkthree": "Ladies Sun Glass",
